@@ -1,1 +1,1 @@
-particle_filter.gif
+![Particle Filter](particle_filter.gif)
